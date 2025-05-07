@@ -1,0 +1,14 @@
+# User-specific files
+GamePath.props
+UserSettings.props
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Zz]ips_*/
+
+# VS Code files
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
