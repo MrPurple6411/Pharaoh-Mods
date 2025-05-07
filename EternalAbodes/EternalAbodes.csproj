@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>EternalAbodes</AssemblyName>
+    <BepInExPluginName>Eternal Abodes</BepInExPluginName>
+    <Description>Housing improvement mod for Pharaoh: A New Era. Prevents undesired housing devolution, adds capacity multipliers, and fixes housing-related bugs.</Description>
+    <Version>1.0.0</Version>
+    <RootNamespace>EternalAbodes</RootNamespace>
+  </PropertyGroup>
+</Project>
